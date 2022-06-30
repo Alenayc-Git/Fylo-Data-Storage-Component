@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site-Fm]()
-- Live Site URL: [Site-Url]()
+- Solution URL: [Site-Fm](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub/responsive-fylo-data-storage-with-absolute-propertys-cIkaW5lXSc)
+- Live Site URL: [Site-Url](https://fylodatastoragecompfm.netlify.app/)
 
 ## My process
 
